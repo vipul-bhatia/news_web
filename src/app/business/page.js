@@ -13,6 +13,7 @@ import NewsTabs from '@/components/Sidebar/NewsTabs';
 import TrendingSingleCarousel from '@/components/TrendingNews/TrendingSingleCarousel';
 import useToggle from '@/Hooks/useToggle';
 import React from 'react';
+import Image from 'next/image';
 
 const postData = [
   {
@@ -89,7 +90,7 @@ const postData = [
   },
 ];
 
-export default function business() {
+export default function Business() {
   const [drawer, drawerAction] = useToggle(false);
   return (
     <Layout title="Business">
@@ -116,11 +117,16 @@ export default function business() {
                   <div className="row">
                     <div className="col-lg-12">
                       {postData.map((item) => (
-                        <div className="business-post-item mb-40">
+                        <div className="business-post-item mb-40" key={item.id || item.postTitle}>
                           <div className="row">
                             <div className="col-lg-6 col-md-6">
                               <div className="business-post-thumb">
-                                <img src={item.postThumb} alt="business" />
+                                <Image
+                                  src={item.postThumb}
+                                  alt="business"
+                                  width={500} // Add appropriate width
+                                  height={300} // Add appropriate height
+                                />
                               </div>
                             </div>
                             <div className="col-lg-6 col-md-6">
