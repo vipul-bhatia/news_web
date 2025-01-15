@@ -1,6 +1,10 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    output: 'export', // Enables static HTML export
+    output: 'export',
+    images: {
+        unoptimized: true, // Required for static export
+    },
+    trailingSlash: true, // Optional: for trailing slashes in URLs
 };
 
-export default nextConfig;
+module.exports = nextConfig;
