@@ -7,4 +7,4 @@ const nextConfig = {
     trailingSlash: true, // Optional: for trailing slashes in URLs
 };
 
-module.exports = nextConfig;
+export default nextConfig;
