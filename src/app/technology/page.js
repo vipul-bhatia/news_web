@@ -98,7 +98,7 @@ export default function Technology() {
                     <div className="row">
                       <div className="col-lg-12">
                         {postData.map((item, i) => (
-                          <div className="trending-news-item technology-item">
+                          <div className="trending-news-item technology-item" key={item.id || i}>
                             <div className="trending-news-thumb">
                               <img src={item.postThumb} alt="trending" />
                               <div className="icon">
@@ -110,18 +110,14 @@ export default function Technology() {
                             <div className="trending-news-content">
                               <div className="post-meta">
                                 <div className="meta-categories">
-                                  <Link href="/post-details-one">
-                                    {item.postTag}
-                                  </Link>
+                                  <Link href="/post-details-one">{item.postTag}</Link>
                                 </div>
                                 <div className="meta-date">
                                   <span>{item.postDate}</span>
                                 </div>
                               </div>
                               <h3 className="title">
-                                <Link href="/post-details-one">
-                                  {item.postTitle}
-                                </Link>
+                                <Link href="/post-details-one">{item.postTitle}</Link>
                               </h3>
                               <p className="text">{item.postDesc}</p>
                             </div>
