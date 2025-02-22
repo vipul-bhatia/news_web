@@ -101,14 +101,14 @@ export default function HomeTwoTwo() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-two">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-two">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -118,7 +118,7 @@ export default function HomeTwoTwo() {
                             room, a 100-seat amphitheater and a swimming pond
                             with sandy shower…
                           </p>
-                          <Link href="/post-details-two">Read more</Link>
+                          <Link href="/post-details-three">Read more</Link>
                         </div>
                       </div>
                     </div>

@@ -102,7 +102,7 @@ export default function PostCarousel({ dark }) {
                 </div>
                 <div className="post-content">
                   <h4 className="title">
-                    <Link href="/post-details-one">{item.postTitle}</Link>
+                    <Link href="/post-details-three">{item.postTitle}</Link>
                   </h4>
                   <p>{item.postDesc}</p>
                 </div>

@@ -9,7 +9,7 @@ export default function SingleNewsCard() {
       </div>
       <div className="post-news-content">
         <h3 className="title">
-          <Link href="/post-details-one">
+          <Link href="/post-details-three">
             Japan’s virus success puzzled the world luck running out?
           </Link>
         </h3>
@@ -19,7 +19,7 @@ export default function SingleNewsCard() {
         </p>
         <div className="meta-post-2-style">
           <div className="meta-post-categores">
-            <Link href="/post-details-one">TECHNOLOGY</Link>
+            <Link href="/post-details-three">TECHNOLOGY</Link>
           </div>
           <div className="meta-post-date">
             <span>April 26, 2020</span>

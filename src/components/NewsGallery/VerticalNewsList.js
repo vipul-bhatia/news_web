@@ -10,7 +10,7 @@ export default function VerticalNewsList() {
         </div>
         <div className="gallery_item_content">
           <h4 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               The city with highest quality of life in world.
             </Link>
           </h4>
@@ -23,7 +23,7 @@ export default function VerticalNewsList() {
         </div>
         <div className="gallery_item_content">
           <h4 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Fire shows that will improve your…
             </Link>
           </h4>
@@ -36,7 +36,7 @@ export default function VerticalNewsList() {
         </div>
         <div className="gallery_item_content">
           <h4 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Mutul fund mark from down up to 15%.
             </Link>
           </h4>
@@ -49,7 +49,7 @@ export default function VerticalNewsList() {
         </div>
         <div className="gallery_item_content">
           <h4 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Danny meyer’s form latest restaurantes…
             </Link>
           </h4>
@@ -62,7 +62,7 @@ export default function VerticalNewsList() {
         </div>
         <div className="gallery_item_content">
           <h4 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Wright begins in rehab assignment at the..
             </Link>
           </h4>

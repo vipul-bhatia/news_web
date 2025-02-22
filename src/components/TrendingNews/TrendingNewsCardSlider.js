@@ -50,7 +50,7 @@ export default function TrendingNewsCardSlider() {
               <span>Technology</span>
             </div>
             <h5 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -66,12 +66,12 @@ export default function TrendingNewsCardSlider() {
             </div>
             <ul>
               <li>
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>
@@ -84,7 +84,7 @@ export default function TrendingNewsCardSlider() {
               <span>Business</span>
             </div>
             <h5 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -100,12 +100,12 @@ export default function TrendingNewsCardSlider() {
             </div>
             <ul>
               <li>
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>
@@ -118,7 +118,7 @@ export default function TrendingNewsCardSlider() {
               <span>Business</span>
             </div>
             <h5 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -134,12 +134,12 @@ export default function TrendingNewsCardSlider() {
             </div>
             <ul>
               <li>
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>

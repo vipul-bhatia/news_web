@@ -85,7 +85,7 @@ export default function TrendingNewPost({ dark }) {
                   </div>
                 </div>
                 <h4 className="title">
-                  <Link href="/post-details-two">{item.postTitle}</Link>
+                  <Link href="/post-details-three">{item.postTitle}</Link>
                 </h4>
               </div>
             </div>

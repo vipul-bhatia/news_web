@@ -17,7 +17,7 @@ export default function FinanceNews() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>
@@ -27,17 +27,17 @@ export default function FinanceNews() {
             </p>
             <ul>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="fas fa-share"></i> 53,346
                 </Link>
               </li>
@@ -53,7 +53,7 @@ export default function FinanceNews() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>
@@ -63,17 +63,17 @@ export default function FinanceNews() {
             </p>
             <ul>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="fas fa-share"></i> 53,346
                 </Link>
               </li>
@@ -89,7 +89,7 @@ export default function FinanceNews() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>
@@ -99,17 +99,17 @@ export default function FinanceNews() {
             </p>
             <ul>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="fas fa-share"></i> 53,346
                 </Link>
               </li>
@@ -125,7 +125,7 @@ export default function FinanceNews() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>
@@ -135,17 +135,17 @@ export default function FinanceNews() {
             </p>
             <ul>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-eye"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="far fa-heart"></i> 53,346
                 </Link>
               </li>
               <li>
-                <Link href="/post-details-two">
+                <Link href="/post-details-three">
                   <i className="fas fa-share"></i> 53,346
                 </Link>
               </li>

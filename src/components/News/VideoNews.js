@@ -37,14 +37,14 @@ export default function VideoNews({ dark }) {
         <div className="video-news-post-content">
           <div className="post-meta">
             <div className="meta-categories">
-              <Link href="/post-details-two">TECHNOLOGY</Link>
+              <Link href="/post-details-three">TECHNOLOGY</Link>
             </div>
             <div className="meta-date">
               <span>March 26, 2020</span>
             </div>
           </div>
           <h3 className="title">
-            <Link href="/post-details-two">
+            <Link href="/post-details-three">
               Riots Report Shows London Needs To Maintain Police Numbers, Says
               Mayor
             </Link>

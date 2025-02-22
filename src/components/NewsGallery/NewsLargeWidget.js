@@ -10,7 +10,7 @@ export default function NewsLargeWidget() {
       <div className="bg-image"></div>
       <div className="post__gallery_play_content">
         <h2 className="title">
-          <Link href="/post-details-one" tabIndex="0">
+          <Link href="/post-details-three" tabIndex="0">
             Japan’s virus success has puzzled the world. Is its luck running
             out?
           </Link>
@@ -21,7 +21,7 @@ export default function NewsLargeWidget() {
         </p>
         <div className="post-meta">
           <div className="meta-categories">
-            <Link href="/post-details-one" tabIndex="0">
+            <Link href="/post-details-three" tabIndex="0">
               TECHNOLOGY
             </Link>
           </div>

@@ -16,7 +16,7 @@ export default function InternationalNews() {
             <div className="international-meta">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
@@ -25,12 +25,12 @@ export default function InternationalNews() {
               <div className="share-link">
                 <ul>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fal fa-bookmark"></i>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fas fa-share"></i>
                     </Link>
                   </li>
@@ -38,7 +38,7 @@ export default function InternationalNews() {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Investors explain COVID-19’s impact on consumer startups
               </Link>
             </h3>
@@ -46,7 +46,7 @@ export default function InternationalNews() {
               The property, complete with 30-seat screening from room, a
               100-seat amphitheater and a swimming pond with sandy shower…
             </p>
-            <Link href="/post-details-two">LEARN MORE</Link>
+            <Link href="/post-details-three">LEARN MORE</Link>
           </div>
         </div>
         <div className="international-news-item">
@@ -57,7 +57,7 @@ export default function InternationalNews() {
             <div className="international-meta">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
@@ -66,12 +66,12 @@ export default function InternationalNews() {
               <div className="share-link">
                 <ul>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fal fa-bookmark"></i>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fas fa-share"></i>
                     </Link>
                   </li>
@@ -79,7 +79,7 @@ export default function InternationalNews() {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Verizon is buying b2b video conferen firm Blue Jeans
               </Link>
             </h3>
@@ -87,7 +87,7 @@ export default function InternationalNews() {
               The property, complete with 30-seat screening from room, a
               100-seat amphitheater and a swimming pond with sandy shower…
             </p>
-            <Link href="/post-details-two">LEARN MORE</Link>
+            <Link href="/post-details-three">LEARN MORE</Link>
           </div>
         </div>
         <div className="international-news-item">
@@ -98,7 +98,7 @@ export default function InternationalNews() {
             <div className="international-meta">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
@@ -107,12 +107,12 @@ export default function InternationalNews() {
               <div className="share-link">
                 <ul>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fal fa-bookmark"></i>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fas fa-share"></i>
                     </Link>
                   </li>
@@ -120,7 +120,7 @@ export default function InternationalNews() {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Unraveling immigration politics and Silicon Valley ethic with
                 Jaclyn…
               </Link>
@@ -129,7 +129,7 @@ export default function InternationalNews() {
               The property, complete with 30-seat screening from room, a
               100-seat amphitheater and a swimming pond with sandy shower…
             </p>
-            <Link href="/post-details-two">LEARN MORE</Link>
+            <Link href="/post-details-three">LEARN MORE</Link>
           </div>
         </div>
         <div className="international-news-item">
@@ -140,7 +140,7 @@ export default function InternationalNews() {
             <div className="international-meta">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
@@ -149,12 +149,12 @@ export default function InternationalNews() {
               <div className="share-link">
                 <ul>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fal fa-bookmark"></i>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fas fa-share"></i>
                     </Link>
                   </li>
@@ -162,7 +162,7 @@ export default function InternationalNews() {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Bridgecrew announces $14M Series A to automate cloud security
               </Link>
             </h3>
@@ -170,7 +170,7 @@ export default function InternationalNews() {
               The property, complete with 30-seat screening from room, a
               100-seat amphitheater and a swimming pond with sandy shower…
             </p>
-            <Link href="/post-details-two">LEARN MORE</Link>
+            <Link href="/post-details-three">LEARN MORE</Link>
           </div>
         </div>
         <div className="international-news-item">
@@ -181,7 +181,7 @@ export default function InternationalNews() {
             <div className="international-meta">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
@@ -190,12 +190,12 @@ export default function InternationalNews() {
               <div className="share-link">
                 <ul>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fal fa-bookmark"></i>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       <i className="fas fa-share"></i>
                     </Link>
                   </li>
@@ -203,7 +203,7 @@ export default function InternationalNews() {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-two">
+              <Link href="/post-details-three">
                 Unraveling immigration politics and Silicon Valley ethic with
                 Jaclyn…
               </Link>
@@ -212,7 +212,7 @@ export default function InternationalNews() {
               The property, complete with 30-seat screening from room, a
               100-seat amphitheater and a swimming pond with sandy shower…
             </p>
-            <Link href="/post-details-two">LEARN MORE</Link>
+            <Link href="/post-details-three">LEARN MORE</Link>
           </div>
         </div>
         <div className="international-btn text-center">

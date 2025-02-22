@@ -19,14 +19,14 @@ export default function OpinionNews() {
         <div className="trending-news-content">
           <div className="post-meta">
             <div className="meta-categories">
-              <Link href="/post-details-one">TECHNOLOGY</Link>
+              <Link href="/post-details-three">TECHNOLOGY</Link>
             </div>
             <div className="meta-date">
               <span>March 26, 2020</span>
             </div>
           </div>
           <h3 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Japan’s virus success puzzled the world luck running out?
             </Link>
           </h3>
@@ -36,17 +36,17 @@ export default function OpinionNews() {
           </p>
           <ul>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="far fa-eye"></i> 53,346
               </Link>
             </li>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="far fa-heart"></i> 53,346
               </Link>
             </li>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fas fa-share"></i> 53,346
               </Link>
             </li>
@@ -65,14 +65,14 @@ export default function OpinionNews() {
         <div className="trending-news-content">
           <div className="post-meta">
             <div className="meta-categories">
-              <Link href="/post-details-one">TECHNOLOGY</Link>
+              <Link href="/post-details-three">TECHNOLOGY</Link>
             </div>
             <div className="meta-date">
               <span>March 26, 2020</span>
             </div>
           </div>
           <h3 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Japan’s virus success puzzled the world luck running out?
             </Link>
           </h3>
@@ -82,17 +82,17 @@ export default function OpinionNews() {
           </p>
           <ul>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="far fa-eye"></i> 53,346
               </Link>
             </li>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="far fa-heart"></i> 53,346
               </Link>
             </li>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fas fa-share"></i> 53,346
               </Link>
             </li>
@@ -111,14 +111,14 @@ export default function OpinionNews() {
         <div className="trending-news-content">
           <div className="post-meta">
             <div className="meta-categories">
-              <Link href="/post-details-one">TECHNOLOGY</Link>
+              <Link href="/post-details-three">TECHNOLOGY</Link>
             </div>
             <div className="meta-date">
               <span>March 26, 2020</span>
             </div>
           </div>
           <h3 className="title">
-            <Link href="/post-details-one">
+            <Link href="/post-details-three">
               Japan’s virus success puzzled the world luck running out?
             </Link>
           </h3>
@@ -128,17 +128,17 @@ export default function OpinionNews() {
           </p>
           <ul>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="far fa-eye"></i> 53,346
               </Link>
             </li>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="far fa-heart"></i> 53,346
               </Link>
             </li>
             <li>
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fas fa-share"></i> 53,346
               </Link>
             </li>

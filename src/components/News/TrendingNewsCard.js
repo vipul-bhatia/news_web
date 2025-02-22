@@ -9,7 +9,7 @@ export default function TrendingNewsCard() {
           <div className="trending-news-thumb">
             <img src="/images/trending-thumb.jpg" alt="trending" />
             <div className="icon">
-              <Link href="/post-details-one" tabIndex="-1">
+              <Link href="/post-details-three" tabIndex="-1">
                 <i className="fas fa-bolt"></i>
               </Link>
             </div>
@@ -17,7 +17,7 @@ export default function TrendingNewsCard() {
           <div className="trending-news-content">
             <div className="post-meta">
               <div className="meta-categories">
-                <Link href="/post-details-one" tabIndex="-1">
+                <Link href="/post-details-three" tabIndex="-1">
                   TECHNOLOGY
                 </Link>
               </div>
@@ -27,12 +27,12 @@ export default function TrendingNewsCard() {
               <div className="share-link">
                 <ul>
                   <li>
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       <i className="fal fa-bookmark"></i>
                     </Link>
                   </li>
                   <li>
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       <i className="fas fa-share"></i>
                     </Link>
                   </li>
@@ -40,7 +40,7 @@ export default function TrendingNewsCard() {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-one" tabIndex="-1">
+              <Link href="/post-details-three" tabIndex="-1">
                 Unraveling immigration politics & Silicon Valley ethic with
                 Jaclyn…
               </Link>
@@ -61,14 +61,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>
@@ -81,14 +81,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>
@@ -101,14 +101,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>
@@ -121,14 +121,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>
@@ -141,14 +141,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>
@@ -161,14 +161,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>
@@ -181,14 +181,14 @@ export default function TrendingNewsCard() {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-date">
                   <span>March 26, 2020</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   Salesforce Ventures’s somorjai warns politics could dampen…
                 </Link>
               </h4>

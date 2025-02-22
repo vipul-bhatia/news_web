@@ -101,7 +101,7 @@ export default function PopularNewsCarousel({ dark }) {
               </div>
               <div className="gallery_item_content">
                 <h4 className="title">
-                  <Link href="/post-details-two">{item.postTitle}</Link>
+                  <Link href="/post-details-three">{item.postTitle}</Link>
                 </h4>
                 <span>{item.postTag}</span>
               </div>
@@ -122,7 +122,7 @@ export default function PopularNewsCarousel({ dark }) {
               </div>
               <div className="gallery_item_content">
                 <h4 className="title">
-                  <Link href="/post-details-two">{item.postTitle}</Link>
+                  <Link href="/post-details-three">{item.postTitle}</Link>
                 </h4>
                 <span>{item.postTag}</span>
               </div>

@@ -12,14 +12,14 @@ export default function TrendingThreeCol() {
               <div className="trending-image-content">
                 <div className="post-meta">
                   <div className="meta-categories">
-                    <Link href="/post-details-two">TECHNOLOGY</Link>
+                    <Link href="/post-details-three">TECHNOLOGY</Link>
                   </div>
                   <div className="meta-date">
                     <span>March 26, 2020</span>
                   </div>
                 </div>
                 <h3 className="title">
-                  <Link href="/post-details-two">
+                  <Link href="/post-details-three">
                     Japan’s virus success has puzzled the world. Is its luck
                     running out?
                   </Link>
@@ -33,14 +33,14 @@ export default function TrendingThreeCol() {
               <div className="trending-image-content">
                 <div className="post-meta">
                   <div className="meta-categories">
-                    <Link href="/post-details-two">TECHNOLOGY</Link>
+                    <Link href="/post-details-three">TECHNOLOGY</Link>
                   </div>
                   <div className="meta-date">
                     <span>March 26, 2020</span>
                   </div>
                 </div>
                 <h3 className="title">
-                  <Link href="/post-details-two">
+                  <Link href="/post-details-three">
                     Japan’s virus success has puzzled the world. Is its luck
                     running out?
                   </Link>
@@ -54,14 +54,14 @@ export default function TrendingThreeCol() {
               <div className="trending-image-content">
                 <div className="post-meta">
                   <div className="meta-categories">
-                    <Link href="/post-details-two">TECHNOLOGY</Link>
+                    <Link href="/post-details-three">TECHNOLOGY</Link>
                   </div>
                   <div className="meta-date">
                     <span>March 26, 2020</span>
                   </div>
                 </div>
                 <h3 className="title">
-                  <Link href="/post-details-two">
+                  <Link href="/post-details-three">
                     Japan’s virus success has puzzled the world. Is its luck
                     running out?
                   </Link>

@@ -41,7 +41,7 @@ export default function BusinessNews({ dark }) {
     <div className="business-news-post pt-40">
       <div className="section-title d-flex justify-content-between align-items-center">
         <h3 className="title">Business News</h3>
-        <Link href="/post-details-one"> SEE ALL </Link>
+        <Link href="/post-details-three"> SEE ALL </Link>
       </div>
       <div className="business-post">
         {postData.map((item, i) => (
@@ -62,17 +62,17 @@ export default function BusinessNews({ dark }) {
                   <div className="trending-news-content">
                     <div className="post-meta">
                       <div className="meta-categories">
-                        <Link href="/post-details-one">{item.postTag}</Link>
+                        <Link href="/post-details-three">{item.postTag}</Link>
                       </div>
                       <div className="meta-date">
                         <span>{item.postDate}</span>
                       </div>
                     </div>
                     <h3 className="title">
-                      <Link href="/post-details-one">{item.postTitle}</Link>
+                      <Link href="/post-details-three">{item.postTitle}</Link>
                     </h3>
                     <p className="text">{item.postDesc}</p>
-                    <Link href="/post-details-one">Read more</Link>
+                    <Link href="/post-details-three">Read more</Link>
                   </div>
                 </div>
               </div>

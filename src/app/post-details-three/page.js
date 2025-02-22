@@ -23,7 +23,7 @@ export default function PostDetailsThree() {
   const [drawer, drawerAction] = useToggle(false);
   return (
     <Layout>
-      <div className="home-1-bg">
+      <div className="home">
         <Drawer drawer={drawer} action={drawerAction.toggle} />
         <Header action={drawerAction.toggle} />
         <section className="post-layout-1-area post-layout-3-area pb-80">

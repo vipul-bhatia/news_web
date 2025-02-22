@@ -98,14 +98,14 @@ export default function MostShare({ customClass, dark }) {
             >
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">{item.postTag}</Link>
+                  <Link href="/post-details-three">{item.postTag}</Link>
                 </div>
                 <div className="meta-date">
                   <span>{item.postDate}</span>
                 </div>
               </div>
               <h3 className="title">
-                <Link href="/post-details-one">{item.postTitle}</Link>
+                <Link href="/post-details-three">{item.postTitle}</Link>
               </h3>
               <ul>
                 <li>
@@ -131,14 +131,14 @@ export default function MostShare({ customClass, dark }) {
             >
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-one">{item.postTag}</Link>
+                  <Link href="/post-details-three">{item.postTag}</Link>
                 </div>
                 <div className="meta-date">
                   <span>{item.postDate}</span>
                 </div>
               </div>
               <h3 className="title">
-                <Link href="/post-details-one">{item.postTitle}</Link>
+                <Link href="/post-details-three">{item.postTitle}</Link>
               </h3>
               <ul>
                 <li>

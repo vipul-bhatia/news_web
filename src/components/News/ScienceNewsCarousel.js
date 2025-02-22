@@ -49,7 +49,7 @@ export default function ScienceNewsCarousel() {
         <div className="col">
           <div className="science-news-item">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -66,7 +66,7 @@ export default function ScienceNewsCarousel() {
               </div>
             </div>
             <div className="post-user">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fal fa-bookmark"></i>
               </Link>
               <span>
@@ -77,7 +77,7 @@ export default function ScienceNewsCarousel() {
           </div>
           <div className="science-news-item">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -94,7 +94,7 @@ export default function ScienceNewsCarousel() {
               </div>
             </div>
             <div className="post-user">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fal fa-bookmark"></i>
               </Link>
               <span>
@@ -107,7 +107,7 @@ export default function ScienceNewsCarousel() {
         <div className="col">
           <div className="science-news-item">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -124,7 +124,7 @@ export default function ScienceNewsCarousel() {
               </div>
             </div>
             <div className="post-user">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fal fa-bookmark"></i>
               </Link>
               <span>
@@ -135,7 +135,7 @@ export default function ScienceNewsCarousel() {
           </div>
           <div className="science-news-item">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -152,7 +152,7 @@ export default function ScienceNewsCarousel() {
               </div>
             </div>
             <div className="post-user">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fal fa-bookmark"></i>
               </Link>
               <span>
@@ -165,7 +165,7 @@ export default function ScienceNewsCarousel() {
         <div className="col">
           <div className="science-news-item">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -182,7 +182,7 @@ export default function ScienceNewsCarousel() {
               </div>
             </div>
             <div className="post-user">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fal fa-bookmark"></i>
               </Link>
               <span>
@@ -193,7 +193,7 @@ export default function ScienceNewsCarousel() {
           </div>
           <div className="science-news-item">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Why clinician spiritual health matters in the covid-19 crisis:
                 you can’t pour from an empty cup…
               </Link>
@@ -210,7 +210,7 @@ export default function ScienceNewsCarousel() {
               </div>
             </div>
             <div className="post-user">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 <i className="fal fa-bookmark"></i>
               </Link>
               <span>

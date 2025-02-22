@@ -13,7 +13,7 @@ export default function InternationVerticalCard() {
             <span>TECHNOLOGY</span>
           </div>
           <h5 className="title">
-            <Link href="/post-details-two">
+            <Link href="/post-details-three">
               Why clinician spiritual health matters in the covid-19 crisis: you
               can’t pour from an empty cup…
             </Link>
@@ -55,7 +55,7 @@ export default function InternationVerticalCard() {
             <span>TECHNOLOGY</span>
           </div>
           <h5 className="title">
-            <Link href="/post-details-two">
+            <Link href="/post-details-three">
               Why clinician spiritual health matters in the covid-19 crisis: you
               can’t pour from an empty cup…
             </Link>
@@ -97,7 +97,7 @@ export default function InternationVerticalCard() {
             <span>TECHNOLOGY</span>
           </div>
           <h5 className="title">
-            <Link href="/post-details-two">
+            <Link href="/post-details-three">
               Why clinician spiritual health matters in the covid-19 crisis: you
               can’t pour from an empty cup…
             </Link>
@@ -139,7 +139,7 @@ export default function InternationVerticalCard() {
             <span>TECHNOLOGY</span>
           </div>
           <h5 className="title">
-            <Link href="/post-details-two">
+            <Link href="/post-details-three">
               Why clinician spiritual health matters in the covid-19 crisis: you
               can’t pour from an empty cup…
             </Link>

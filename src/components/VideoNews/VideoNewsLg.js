@@ -40,12 +40,12 @@ export default function VideoNewsLg() {
                   <div className="share-item">
                     <ul>
                       <li>
-                        <Link href="/post-details-two">
+                        <Link href="/post-details-three">
                           <i className="fal fa-bookmark"></i>
                         </Link>
                       </li>
                       <li>
-                        <Link href="/post-details-two">
+                        <Link href="/post-details-three">
                           <i className="fas fa-share"></i>
                         </Link>
                       </li>
@@ -53,7 +53,7 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-meta">
                     <div className="meta-categories">
-                      <Link href="/post-details-two" tabIndex="0">
+                      <Link href="/post-details-three" tabIndex="0">
                         TECHNOLOGY
                       </Link>
                     </div>
@@ -67,19 +67,19 @@ export default function VideoNewsLg() {
                 </div>
                 <div className="video-play-content">
                   <h3 className="title">
-                    <Link href="/post-details-two">
+                    <Link href="/post-details-three">
                       ICC Men’s Cricket World Cup digital content delivers
                       record-breaking numbers
                     </Link>
                   </h3>
                   <ul>
                     <li>
-                      <Link href="/post-details-two">
+                      <Link href="/post-details-three">
                         <i className="far fa-eye"></i> 53,346
                       </Link>
                     </li>
                     <li>
-                      <Link href="/post-details-two">
+                      <Link href="/post-details-three">
                         <i className="far fa-heart"></i> 53,346
                       </Link>
                     </li>
@@ -95,13 +95,13 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-gallery-content">
                     <h5 className="title">
-                      <Link href="/post-details-two" tabIndex="-1">
+                      <Link href="/post-details-three" tabIndex="-1">
                         The property complete with a 30 seat screen room.
                       </Link>
                     </h5>
                     <div className="meta-post-2-style">
                       <div className="meta-post-categores">
-                        <Link href="/post-details-two" tabIndex="-1">
+                        <Link href="/post-details-three" tabIndex="-1">
                           TECHNOLOGY
                         </Link>
                       </div>
@@ -117,13 +117,13 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-gallery-content">
                     <h5 className="title">
-                      <Link href="/post-details-two" tabIndex="-1">
+                      <Link href="/post-details-three" tabIndex="-1">
                         Cheap smartphone sensor could help you old.
                       </Link>
                     </h5>
                     <div className="meta-post-2-style">
                       <div className="meta-post-categores">
-                        <Link href="/post-details-two" tabIndex="-1">
+                        <Link href="/post-details-three" tabIndex="-1">
                           TECHNOLOGY
                         </Link>
                       </div>
@@ -139,13 +139,13 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-gallery-content">
                     <h5 className="title">
-                      <Link href="/post-details-two" tabIndex="-1">
+                      <Link href="/post-details-three" tabIndex="-1">
                         Harbour amid a Slowen the down in singer city
                       </Link>
                     </h5>
                     <div className="meta-post-2-style">
                       <div className="meta-post-categores">
-                        <Link href="/post-details-two" tabIndex="-1">
+                        <Link href="/post-details-three" tabIndex="-1">
                           TECHNOLOGY
                         </Link>
                       </div>
@@ -161,13 +161,13 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-gallery-content">
                     <h5 className="title">
-                      <Link href="/post-details-two" tabIndex="-1">
+                      <Link href="/post-details-three" tabIndex="-1">
                         The secret to moving this from sphinx screening
                       </Link>
                     </h5>
                     <div className="meta-post-2-style">
                       <div className="meta-post-categores">
-                        <Link href="/post-details-two" tabIndex="-1">
+                        <Link href="/post-details-three" tabIndex="-1">
                           TECHNOLOGY
                         </Link>
                       </div>
@@ -183,13 +183,13 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-gallery-content">
                     <h5 className="title">
-                      <Link href="/post-details-two" tabIndex="-1">
+                      <Link href="/post-details-three" tabIndex="-1">
                         The secret to moving this is sphinx screening
                       </Link>
                     </h5>
                     <div className="meta-post-2-style">
                       <div className="meta-post-categores">
-                        <Link href="/post-details-two" tabIndex="-1">
+                        <Link href="/post-details-three" tabIndex="-1">
                           TECHNOLOGY
                         </Link>
                       </div>
@@ -205,13 +205,13 @@ export default function VideoNewsLg() {
                   </div>
                   <div className="post-gallery-content">
                     <h5 className="title">
-                      <Link href="/post-details-two" tabIndex="-1">
+                      <Link href="/post-details-three" tabIndex="-1">
                         The secret to moving this is sphinx screening
                       </Link>
                     </h5>
                     <div className="meta-post-2-style">
                       <div className="meta-post-categores">
-                        <Link href="/post-details-two" tabIndex="-1">
+                        <Link href="/post-details-three" tabIndex="-1">
                           TECHNOLOGY
                         </Link>
                       </div>

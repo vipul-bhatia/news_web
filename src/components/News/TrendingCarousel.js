@@ -120,7 +120,7 @@ export default function TrendingCarousel({ dark }) {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Japan’s virus success has puzzled the world. Is its luck running
                 out?
               </Link>
@@ -156,7 +156,7 @@ export default function TrendingCarousel({ dark }) {
               </div>
             </div>
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Japan’s virus success has puzzled the world. Is its luck running
                 out?
               </Link>

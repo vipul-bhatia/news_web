@@ -63,13 +63,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -84,13 +84,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -105,13 +105,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -126,13 +126,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -147,13 +147,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -170,13 +170,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -191,13 +191,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -212,13 +212,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -233,13 +233,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -254,13 +254,13 @@ export default function MostViewTwo() {
             </div>
             <div className="post-gallery-content">
               <h5 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   The city with highest quality of life in world.
                 </Link>
               </h5>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>

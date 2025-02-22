@@ -95,14 +95,14 @@ export default function SportsNewsCarousel({ dark }) {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">{item.postTag}</Link>
+                  <Link href="/post-details-three">{item.postTag}</Link>
                 </div>
                 <div className="meta-date">
                   <span>{item.postDate}</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-two">{item.postTitle}</Link>
+                <Link href="/post-details-three">{item.postTitle}</Link>
               </h4>
             </div>
           </div>
@@ -120,14 +120,14 @@ export default function SportsNewsCarousel({ dark }) {
             <div className="gallery_item_content">
               <div className="post-meta">
                 <div className="meta-categories">
-                  <Link href="/post-details-two">{item.postTag}</Link>
+                  <Link href="/post-details-three">{item.postTag}</Link>
                 </div>
                 <div className="meta-date">
                   <span>{item.postDate}</span>
                 </div>
               </div>
               <h4 className="title">
-                <Link href="/post-details-two">{item.postTitle}</Link>
+                <Link href="/post-details-three">{item.postTitle}</Link>
               </h4>
             </div>
           </div>

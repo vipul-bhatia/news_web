@@ -47,16 +47,16 @@ export default function Archive() {
                           <div className="archive-list ">
                             <ul>
                               <li>
-                                <Link href="/post-details-one">January</Link>
+                                <Link href="/post-details-three">January</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">February</Link>
+                                <Link href="/post-details-three">February</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">March</Link>
+                                <Link href="/post-details-three">March</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">April</Link>
+                                <Link href="/post-details-three">April</Link>
                               </li>
                             </ul>
                           </div>
@@ -70,79 +70,79 @@ export default function Archive() {
                           <div className="archive-list">
                             <ul>
                               <li>
-                                <Link href="/post-details-one">2000</Link>
+                                <Link href="/post-details-three">2000</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2001</Link>
+                                <Link href="/post-details-three">2001</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2002</Link>
+                                <Link href="/post-details-three">2002</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2003</Link>
+                                <Link href="/post-details-three">2003</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2004</Link>
+                                <Link href="/post-details-three">2004</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2005</Link>
-                              </li>
-                            </ul>
-                            <ul>
-                              <li>
-                                <Link href="/post-details-one">2006</Link>
-                              </li>
-                              <li>
-                                <Link href="/post-details-one">2007</Link>
-                              </li>
-                              <li>
-                                <Link href="/post-details-one">2008</Link>
-                              </li>
-                              <li>
-                                <Link href="/post-details-one">2009</Link>
-                              </li>
-                              <li>
-                                <Link href="/post-details-one">2010</Link>
-                              </li>
-                              <li>
-                                <Link href="/post-details-one">2011</Link>
+                                <Link href="/post-details-three">2005</Link>
                               </li>
                             </ul>
                             <ul>
                               <li>
-                                <Link href="/post-details-one">2012</Link>
+                                <Link href="/post-details-three">2006</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2013</Link>
+                                <Link href="/post-details-three">2007</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2014</Link>
+                                <Link href="/post-details-three">2008</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2015</Link>
+                                <Link href="/post-details-three">2009</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2016</Link>
+                                <Link href="/post-details-three">2010</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2017</Link>
+                                <Link href="/post-details-three">2011</Link>
                               </li>
                             </ul>
                             <ul>
                               <li>
-                                <Link href="/post-details-one">2018</Link>
+                                <Link href="/post-details-three">2012</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2019</Link>
+                                <Link href="/post-details-three">2013</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2020</Link>
+                                <Link href="/post-details-three">2014</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2021</Link>
+                                <Link href="/post-details-three">2015</Link>
                               </li>
                               <li>
-                                <Link href="/post-details-one">2022</Link>
+                                <Link href="/post-details-three">2016</Link>
+                              </li>
+                              <li>
+                                <Link href="/post-details-three">2017</Link>
+                              </li>
+                            </ul>
+                            <ul>
+                              <li>
+                                <Link href="/post-details-three">2018</Link>
+                              </li>
+                              <li>
+                                <Link href="/post-details-three">2019</Link>
+                              </li>
+                              <li>
+                                <Link href="/post-details-three">2020</Link>
+                              </li>
+                              <li>
+                                <Link href="/post-details-three">2021</Link>
+                              </li>
+                              <li>
+                                <Link href="/post-details-three">2022</Link>
                               </li>
                             </ul>
                           </div>
@@ -182,14 +182,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -213,14 +213,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -244,14 +244,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -275,14 +275,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -306,14 +306,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -337,14 +337,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -368,14 +368,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -399,14 +399,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -430,14 +430,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -461,14 +461,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -492,14 +492,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>
@@ -523,14 +523,14 @@ export default function Archive() {
                         <div className="trending-news-content">
                           <div className="post-meta">
                             <div className="meta-categories">
-                              <Link href="/post-details-one">TECHNOLOGY</Link>
+                              <Link href="/post-details-three">TECHNOLOGY</Link>
                             </div>
                             <div className="meta-date">
                               <span>March 26, 2020</span>
                             </div>
                           </div>
                           <h3 className="title">
-                            <Link href="/post-details-one">
+                            <Link href="/post-details-three">
                               There may be no consoles in the future ea exec
                               says
                             </Link>

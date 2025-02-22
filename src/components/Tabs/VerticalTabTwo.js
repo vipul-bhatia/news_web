@@ -89,13 +89,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     The city with highest quality of life in world.
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -108,13 +108,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Fire shows that will improve your…
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -127,13 +127,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Mutul fund mark from down up to 15%.
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -146,13 +146,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Danny meyer’s form latest restaurantes…
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -165,13 +165,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Wright begins in rehab assignment at the..
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -200,13 +200,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     The city with highest quality of life in world.
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -219,13 +219,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Fire shows that will improve your…
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -238,13 +238,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Mutul fund mark from down up to 15%.
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -257,13 +257,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Danny meyer’s form latest restaurantes…
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -276,13 +276,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Wright begins in rehab assignment at the..
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -311,13 +311,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     The city with highest quality of life in world.
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -330,13 +330,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Fire shows that will improve your…
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -349,13 +349,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Mutul fund mark from down up to 15%.
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -368,13 +368,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Danny meyer’s form latest restaurantes…
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>
@@ -387,13 +387,13 @@ export default function VerticalTabTwo() {
               </div>
               <div className="post-gallery-content">
                 <h5 className="title">
-                  <Link href="/post-details-two" tabIndex="-1">
+                  <Link href="/post-details-three" tabIndex="-1">
                     Wright begins in rehab assignment at the..
                   </Link>
                 </h5>
                 <div className="meta-post-2-style">
                   <div className="meta-post-categores">
-                    <Link href="/post-details-two" tabIndex="-1">
+                    <Link href="/post-details-three" tabIndex="-1">
                       TECHNOLOGY
                     </Link>
                   </div>

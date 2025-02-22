@@ -157,12 +157,12 @@ const data = [
       {
         "id": 31,
         "linkText": "Post 1",
-        "link": "/post-details-one"
+        "link": "/post-details-three"
       },
       {
         "id": 32,
         "linkText": "Post 2",
-        "link": "/post-details-two"
+        "link": "/post-details-three"
       },
       {
         "id": 33,

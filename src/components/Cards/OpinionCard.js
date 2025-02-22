@@ -18,7 +18,7 @@ export default function OpinionCard() {
         </div>
         <div className="opinion-post-content">
           <h3 className="title">
-            <Link href="/post-details-two">
+            <Link href="/post-details-three">
               Miami woman deliver her powerful winds kept help from nuture…
             </Link>
           </h3>
@@ -29,7 +29,7 @@ export default function OpinionCard() {
           </p>
           <div className="meta-post-2-style">
             <div className="meta-post-categores">
-              <Link href="/post-details-two">TECHNOLOGY</Link>
+              <Link href="/post-details-three">TECHNOLOGY</Link>
             </div>
             <div className="meta-post-date">
               <span>April 26, 2020</span>

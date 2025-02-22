@@ -65,7 +65,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -101,7 +101,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -137,7 +137,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -173,7 +173,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -209,7 +209,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -245,7 +245,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -281,7 +281,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -317,7 +317,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -353,7 +353,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -389,7 +389,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -425,7 +425,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>
@@ -461,7 +461,7 @@ export default function Trending() {
                               </div>
                             </div>
                             <h3 className="title">
-                              <Link href="/post-details-one">
+                              <Link href="/post-details-three">
                                 There may be no consoles in the future ea exec
                                 says
                               </Link>

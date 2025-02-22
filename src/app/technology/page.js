@@ -102,7 +102,7 @@ export default function Technology() {
                             <div className="trending-news-thumb">
                               <img src={item.postThumb} alt="trending" />
                               <div className="icon">
-                                <Link href="/post-details-one">
+                                <Link href="/post-details-three">
                                   <i className="fas fa-bolt"></i>
                                 </Link>
                               </div>
@@ -110,14 +110,14 @@ export default function Technology() {
                             <div className="trending-news-content">
                               <div className="post-meta">
                                 <div className="meta-categories">
-                                  <Link href="/post-details-one">{item.postTag}</Link>
+                                  <Link href="/post-details-three">{item.postTag}</Link>
                                 </div>
                                 <div className="meta-date">
                                   <span>{item.postDate}</span>
                                 </div>
                               </div>
                               <h3 className="title">
-                                <Link href="/post-details-one">{item.postTitle}</Link>
+                                <Link href="/post-details-three">{item.postTitle}</Link>
                               </h3>
                               <p className="text">{item.postDesc}</p>
                             </div>

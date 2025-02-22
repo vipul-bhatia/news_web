@@ -117,14 +117,14 @@ export default function MostviewNews({ dark }) {
               <div className="gallery_item_content">
                 <div className="post-meta">
                   <div className="meta-categories">
-                    <Link href="/post-details-one">{item.postTag}</Link>
+                    <Link href="/post-details-three">{item.postTag}</Link>
                   </div>
                   <div className="meta-date">
                     <span>{item.postDate}</span>
                   </div>
                 </div>
                 <h4 className="title">
-                  <Link href="/post-details-one">{item.postTitle}</Link>
+                  <Link href="/post-details-three">{item.postTitle}</Link>
                 </h4>
                 <span>{item.id}</span>
               </div>
@@ -148,14 +148,14 @@ export default function MostviewNews({ dark }) {
               <div className="gallery_item_content">
                 <div className="post-meta">
                   <div className="meta-categories">
-                    <Link href="/post-details-one">{item.postTag}</Link>
+                    <Link href="/post-details-three">{item.postTag}</Link>
                   </div>
                   <div className="meta-date">
                     <span>{item.postDate}</span>
                   </div>
                 </div>
                 <h4 className="title">
-                  <Link href="/post-details-one">{item.postTitle}</Link>
+                  <Link href="/post-details-three">{item.postTitle}</Link>
                 </h4>
                 <span>{item.id}</span>
               </div>

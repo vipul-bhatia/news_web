@@ -17,7 +17,7 @@ export default function MostViewVerticalCard() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>
@@ -46,7 +46,7 @@ export default function MostViewVerticalCard() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>
@@ -75,7 +75,7 @@ export default function MostViewVerticalCard() {
           </div>
           <div className="finance-content">
             <h3 className="title">
-              <Link href="/post-details-one">
+              <Link href="/post-details-three">
                 Japan’s virus success puzzled the world luck running out?
               </Link>
             </h3>

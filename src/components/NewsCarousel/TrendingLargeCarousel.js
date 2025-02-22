@@ -60,7 +60,7 @@ export default function TrendingLargeCarousel() {
             </div>
             <div className="post-news-content">
               <h3 className="title">
-                <Link href="/post-details-one">
+                <Link href="/post-details-three">
                   There may be no consoles in the future ea exec says
                 </Link>
               </h3>
@@ -70,7 +70,7 @@ export default function TrendingLargeCarousel() {
               </p>
               <div className="meta-post-2-style">
                 <div className="meta-post-categores">
-                  <Link href="/post-details-one">TECHNOLOGY</Link>
+                  <Link href="/post-details-three">TECHNOLOGY</Link>
                 </div>
                 <div className="meta-post-date">
                   <span>April 26, 2020</span>
@@ -88,14 +88,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -109,14 +109,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -130,14 +130,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -151,14 +151,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -172,14 +172,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -195,14 +195,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -216,14 +216,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -237,14 +237,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -258,14 +258,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>
@@ -279,14 +279,14 @@ export default function TrendingLargeCarousel() {
                 </div>
                 <div className="post-gallery-content">
                   <h5 className="title">
-                    <Link href="/post-details-one">
+                    <Link href="/post-details-three">
                       Miami woman deliver her powerful winds kept help from
                       nuture…
                     </Link>
                   </h5>
                   <div className="meta-post-2-style">
                     <div className="meta-post-categores">
-                      <Link href="/post-details-one">TECHNOLOGY</Link>
+                      <Link href="/post-details-three">TECHNOLOGY</Link>
                     </div>
                     <div className="meta-post-date">
                       <span>April 26, 2020</span>

@@ -103,7 +103,7 @@ export default function TwoPostCarousel({ dark, customClass }) {
                       </div>
                     </div>
                     <h3 className="title">
-                      <Link href="/post-details-two">{item.postTitle}</Link>
+                      <Link href="/post-details-three">{item.postTitle}</Link>
                     </h3>
                   </div>
                   <div className="play-btn">
